@@ -27,4 +27,6 @@ public class ObjectClass2 {//main class
 		System.out.println(obj2.equals(obj));//call method to get updated/overrided value not in boolean.
 	}
 	//by using this overrided method we can restrict default method n print value as per we want.
+	
+	
 }
